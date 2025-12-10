@@ -1,10 +1,10 @@
 {
-  "name": "Common Chrysalis",
+  "name": "Chrysalis II",
   "symbol": "CHRYS",
-  "description": "A common Chrysalis egg granted for staking on Hanzenko.",
+  "description": "A tier 2 ready to hatch Hanzenko Chrysalis",
   "image": "https://reddjoseph.github.io/hanzenko-nfts/images/chrysalis-2.png",
   "attributes": [
-    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Rarity", "value": "Legendary" },
     { "trait_type": "Type", "value": "Chrysalis Egg" }
   ]
 }
