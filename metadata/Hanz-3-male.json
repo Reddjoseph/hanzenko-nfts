@@ -1,0 +1,11 @@
+{
+  "name": "Male Baby Hanz 3",
+  "symbol": "CHRYS",
+  "description": "A baby Hanz ready to grow",
+  "image": "https://reddjoseph.github.io/hanzenko-nfts/images/Hanz-3.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Unknown" },
+    { "trait_type": "Type", "value": "Hanz" },
+    { "trait_type": "Gender", "value": "Male" }
+  ]
+}
