@@ -4,7 +4,7 @@
   "description": "A baby Hanz ready to grow",
   "image": "https://reddjoseph.github.io/hanzenko-nfts/images/Hanz-Common.png",
   "attributes": [
-    { "trait_type": "Rarity", "value": "Unknown" },
+    { "trait_type": "Rarity", "value": "Common" },
     { "trait_type": "Type", "value": "Hanz" }
   ]
 }
